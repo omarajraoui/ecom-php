@@ -1,0 +1,184 @@
+{
+    "products" : [{
+            "id": 6,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 760,
+            "category": "Featured Products"
+        },
+        {
+            "id": 3,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 550 ,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Item to add",
+            "image": "./images/products",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
